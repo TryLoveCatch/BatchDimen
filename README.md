@@ -6,6 +6,7 @@
 1、运行BatchDimen.jar
 
 2、输入原始dimen所在文件夹目录，会转化文件夹下的所有包含dimen名字的xml
+默认的目标目录 就是原始的目录，可以不用修改，除非需要生成到一个单独的文件夹下面
 
 ![image](https://raw.githubusercontent.com/TryLoveCatch/BatchDimen/master/screenshots/1.png)
 
