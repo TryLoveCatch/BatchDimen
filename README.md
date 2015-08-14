@@ -1,5 +1,5 @@
 # BatchDimen
-批量生成Dimen，用于适配
+批量生成Dimen，用于适配，可以直接使用项目中的BatchDimen.jar。
 
 具体步骤如下：
 
